@@ -1,7 +1,7 @@
 ---
-name: Mounica Maddela
-role: Head Teaching Assistant
-email: mmaddela3@gatech.edu
+name: Mounica Maddela (Head TA)
+role: Teaching Assistant
+email: 
 website: https://mounicam.github.io/
 photo: mounica.png
 ---

@@ -2,7 +2,7 @@
 name: Marcus Ma
 role: Teaching Assistant
 email: 
-website: 
+website: https://www.linkedin.com/in/marcusma/
 office-hours: TBA
-photo: marcus.png
+photo: marcus.jpeg
 ---
