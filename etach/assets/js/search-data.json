@@ -85,13 +85,13 @@
   },"14": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": "Wei Xu . wei.xu@cc.gatech.edu . Office Hours: Monday after class . ",
+    "content": "Wei Xu . Office Hours: Monday after class . ",
     "url": "http://localhost:4000/CS4650_spring2023/staff/#instructor",
     "relUrl": "/staff/#instructor"
   },"15": {
     "doc": "Staff",
     "title": "Teaching Assistants",
-    "content": "Ben Podrazhansky . Office Hours: TBD . Marcus Ma . Office Hours: TBA . Rahul Katre . Office Hours: TBA . ",
+    "content": "Ben Podrazhansky . Office Hours: TBD . Marcus Ma . Office Hours: TBA . Mounica Maddela (Head TA) . Rahul Katre . Office Hours: TBA . ",
     "url": "http://localhost:4000/CS4650_spring2023/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   },"16": {
