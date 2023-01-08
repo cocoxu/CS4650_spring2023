@@ -6,7 +6,7 @@ Jan 9
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 11
-: [Machine Learning Review - naive Bayes](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml-a.pdf) [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec2_lr_notes.pdf)] 
+: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml-a.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 12
@@ -14,10 +14,6 @@ Jan 12
 
 Jan 24
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
-
-TBA
-: Machine Learning Review - logistic regression
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
 : Machine Learning - Perceptron, SVM, multiclass
