@@ -12,7 +12,7 @@ Jan 11
 Jan 12
 : **[Problem Set 0 due](https://cocoxu.github.io/CS4650_spring2022/slides/CS4650_Problem_Set_0.pdf)**
 
-Jan 24
+Jan 20
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
 
 TBA
