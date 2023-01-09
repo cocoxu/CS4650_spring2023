@@ -10,7 +10,7 @@ Jan 11
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 12
-: **[Problem Set 0 due](https://cocoxu.github.io/CS4650_spring2022/slides/CS4650_Problem_Set_0.pdf)**
+: **[Problem Set 0 due](https://cocoxu.github.io/CS4650_spring2023/slides/CS4650_Problem_Set_0.pdf)**
 
 Jan 20
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
