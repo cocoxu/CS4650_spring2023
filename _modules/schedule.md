@@ -2,11 +2,11 @@
 title: Schedule (subject to change as the term progresses)
 ---
 Jan 9
-: [Course Introduction](https://cocoxu.github.io/CS4650_spring2022/slides/lec1-intro.pdf)
+: [Course Introduction](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 11
-: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml-a.pdf)
+: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-a.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 12
@@ -28,7 +28,7 @@ TBA
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
 Resource 
-: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)
+: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2023/slides/PyTorch_tutorial.pdf)
   : 
   
 TBA
