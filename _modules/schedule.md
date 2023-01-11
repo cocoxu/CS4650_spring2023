@@ -6,7 +6,7 @@ Jan 9
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 11
-: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-a.pdf)
+: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 12
