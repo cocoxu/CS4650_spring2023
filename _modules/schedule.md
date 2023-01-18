@@ -2,17 +2,24 @@
 title: Schedule (subject to change as the term progresses)
 ---
 Jan 9
-: [Course Introduction](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
+: [Course Overview](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
+  
 Jan 11
-: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+: [Intro to NLP](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
+  : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 12
 : **[Problem Set 0 due](https://github.com/cocoxu/CS4650_projects_spring2023/blob/master/Problem%20Set%200/CS4650_Problem_Set_0.pdf)**
 
-Jan 20
+Jan 16 
+: no class - MLK day
+
+Jan 18
+: [Machine Learning Review - Naive Bayes, logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+Jan 26
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
 
 TBA
