@@ -20,15 +20,22 @@ Jan 18
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 23
-: [Machine Learning Review - logistic regression, Perceptron, SVM](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
+: [Machine Learning Review - logistic regression](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+Jan 25
+: [Machine Learning Review - Perceptron, SVM](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
+  : [Daumé 4](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)
+
+TBA
+: [Machine Learning - multi-class classification](https://cocoxu.github.io/CS4650_spring2023/slides/lec3-mcc.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
+
+
 
 Jan 26
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
 
-TBA
-: Machine Learning - multi-class classification
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
 : Neural Networks - Feedforward
