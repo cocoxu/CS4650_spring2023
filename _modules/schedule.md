@@ -8,11 +8,11 @@ Resource
   
 Jan 9
 : [Course Overview](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
-  : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Jan 11
 : [Intro to NLP](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
-  : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  : [Eisenstein 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 12
 : **[Problem Set 0 due](https://github.com/cocoxu/CS4650_projects_spring2023/blob/master/Problem%20Set%200/CS4650_Problem_Set_0.pdf)**
