@@ -27,19 +27,22 @@ Jan 25
 : [Machine Learning Review - Perceptron, SVM](https://cocoxu.github.io/CS4650_spring2023/slides/lec2-ml-class.pdf)
   : [Daumé 4](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)
 
-TBA
-: [Machine Learning - multi-class classification](https://cocoxu.github.io/CS4650_spring2023/slides/lec3-mcc.pdf)
-  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
-
-
 
 Jan 26
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
 
+TBA
+: [Machine Learning - multi-class classification](https://cocoxu.github.io/CS4650_spring2023/slides/lec3-mcc.pdf)
+  : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
 : Neural Networks - Feedforward
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
+
+
+Feb 9
+: **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_spring2023/blob/master/Problem%20Set%201/CS4650_Problem_Set_1.pdf)**
+
 
 TBA
 : Neural Networks - Backpropagation, optimization
