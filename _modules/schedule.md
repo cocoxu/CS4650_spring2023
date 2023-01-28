@@ -1,6 +1,11 @@
 ---
 title: Schedule (subject to change as the term progresses)
 ---
+
+Resource 
+: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2023/slides/PyTorch_tutorial.pdf)
+  : 
+  
 Jan 9
 : [Course Overview](https://cocoxu.github.io/CS4650_spring2023/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -36,7 +41,7 @@ TBA
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 TBA
-: Neural Networks - Feedforward
+: [Neural Networks - Feedforward](https://cocoxu.github.io/CS4650_spring2023/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
 
@@ -48,10 +53,6 @@ TBA
 : Neural Networks - Backpropagation, optimization
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
-Resource 
-: [PyTorch Tutorial (w/ links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2023/slides/PyTorch_tutorial.pdf)
-  : 
-  
 TBA
 : Word Embeddings
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
