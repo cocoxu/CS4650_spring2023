@@ -19,7 +19,7 @@ description: >-
 
 - [Piazza](https://piazza.com/gatech/spring2023/cs4650) (announcements, questions, discussion)
 - [Gradescope](https://www.gradescope.com/courses/481426) (homework assignments, submission, and grading)
-- [Canvas](https://canvas.gatech.edu/) (only for tracking late days)
+- [Canvas](https://canvas.gatech.edu/) (Zoom recordings)
 - [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1Pjvveife53YFhZhglhaoiXb5VnH8tbF8qgLgcZJC3Ew/edit?usp=sharing)
 
 
