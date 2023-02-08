@@ -36,26 +36,24 @@ Jan 25
 Jan 26
 : **[Project 0 due](https://colab.research.google.com/drive/1ZmtPv3fU2A-ZhxxEbK6D1NHEheqIFDNq?usp=sharing)**
 
-TBA
+Feb 30
 : [Machine Learning - multi-class classification](https://cocoxu.github.io/CS4650_spring2023/slides/lec3-mcc.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
-TBA
+Feb 1
 : [Neural Networks - Feedforward](https://cocoxu.github.io/CS4650_spring2023/slides/lec4-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
 
+Feb 6
+: [Neural Networks - Backprop, optimization](https://cocoxu.github.io/CS4650_spring2023/slides/lec4-nn.pdf)
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
+
+Feb 8
+: Word Embeddings
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 Feb 9
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_spring2023/blob/master/Problem%20Set%201/CS4650_Problem_Set_1.pdf)**
-
-
-TBA
-: Neural Networks - Backpropagation, optimization
-  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://arxiv.org/pdf/1510.00726.pdf)
-
-TBA
-: Word Embeddings
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
 TBA
 : Sequence Models - HMM, Viterbi
@@ -64,10 +62,12 @@ TBA
 TBA
 : Conditional Random Fields
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  
+Feb 21
+: **[Project 1 due](https://colab.research.google.com/drive/1RtjC0hoe8D0Fo3rosTlWSdfFokAxH_cj?usp=sharing)**
 
-TBA
-: Conditional Random Fields (cont')
-  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+
 
 TBA
 : Recurrent Neural Networks
