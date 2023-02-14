@@ -52,17 +52,15 @@ Feb 8
 : [Word Embeddings](https://cocoxu.github.io/CS4650_spring2023/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](https://arxiv.org/pdf/1510.00726.pdf)
 
-Feb 8
-: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS4650_spring2023/slides/lec6-seq1.pdf)
-  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
-
-
 Feb 9
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_spring2023/blob/master/Problem%20Set%201/CS4650_Problem_Set_1.pdf)**
 
+Feb 13
+: [Sequence Models - HMM, Viterbi](https://cocoxu.github.io/CS4650_spring2023/slides/lec6-seq1.pdf)
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
-TBA
-: Conditional Random Fields
+Feb 15
+: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2023/slides/lec7-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
   
 Feb 21
