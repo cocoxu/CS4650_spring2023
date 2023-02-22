@@ -62,19 +62,16 @@ Feb 13
 Feb 15
 : [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2023/slides/lec7-seq2.pdf)
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Feb 20
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS4650_spring2023/slides/lec8-rnn.pdf)
+  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
   
 Feb 21
 : **[Project 1 due](https://colab.research.google.com/drive/1RtjC0hoe8D0Fo3rosTlWSdfFokAxH_cj?usp=sharing)**
 
-
-
-
-TBA
-: Recurrent Neural Networks
-  : [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 10-11](https://arxiv.org/pdf/1510.00726.pdf), [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
-
-TBA
-: Convolutional Neural Networks + Neural CRFs
+Feb 22
+: [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS4650_spring2023/slides/lec9-cnn.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
 TBA
