@@ -110,7 +110,7 @@ TBA
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf), [UnifiedQA](https://arxiv.org/pdf/2005.00700.pdf)
 
 TBA
-: [Multilingual / Cross-lingual Models]
+: Multilingual / Cross-lingual Models
   : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
   
 
