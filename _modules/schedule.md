@@ -74,9 +74,12 @@ Feb 22
 : [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS4650_spring2023/slides/lec9-cnn.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [Goldberg 9](https://arxiv.org/pdf/1510.00726.pdf)
 
-TBA
-: Machine Translation
+Feb 27
+: [Machine Translation](https://cocoxu.github.io/CS4650_spring2023/slides/lec10-mt.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Mar 9
+: **[Project 2 due](https://colab.research.google.com/drive/1IbmAjZiKWSqj9SD1Fpon6gJ7lWd5YqkI?usp=sharing)**
 
 TBA
 : Encoder-Decoder + Attention
