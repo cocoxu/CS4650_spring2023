@@ -78,13 +78,13 @@ Feb 27
 : [Machine Translation](https://cocoxu.github.io/CS4650_spring2023/slides/lec10-mt.pdf)
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Mar 1
+: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS4650_spring2023/slides/lec11-seq2seq.pdf)
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  
 Mar 9
 : **[Project 2 due](https://colab.research.google.com/drive/1IbmAjZiKWSqj9SD1Fpon6gJ7lWd5YqkI?usp=sharing)**
 
-TBA
-: Encoder-Decoder + Attention
-  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-  
 TBA
 : Neural MT + Generation
   : [Wu+16 Google NMT](https://arxiv.org/abs/1609.08144), [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
