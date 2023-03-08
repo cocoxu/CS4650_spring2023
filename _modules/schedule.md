@@ -93,6 +93,10 @@ Mar 8
 Mar 9
 : **[Project 2 due](https://colab.research.google.com/drive/1IbmAjZiKWSqj9SD1Fpon6gJ7lWd5YqkI?usp=sharing)**
 
+April 10
+: In-class Midterm (close book/note/electronic-device)
+
+
 TBA
 : Pretrained Language Models
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
